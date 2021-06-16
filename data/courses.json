@@ -1,0 +1,14 @@
+[
+  {
+    "title": "React JS",
+    "price": "10000",
+    "img": "https://crispersoft.com/ru/wp-content/uploads/2020/01/reactready.jpg",
+    "id": "7ab7791e-7f17-483d-9198-0c0402875189"
+  },
+  {
+    "title": "Vue JS",
+    "price": "10000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+    "id": "fc8a061c-e691-455d-a3e0-7cfaa39e66bb"
+  }
+]
